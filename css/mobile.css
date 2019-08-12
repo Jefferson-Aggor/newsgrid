@@ -1,0 +1,10 @@
+@media(max-width:768px) {
+    #main-nav .container {
+        flex-direction: column;
+        justify-content: center;
+        padding: 1rem;
+    }
+    #main-nav .container .social {
+        display: none;
+    }
+}
